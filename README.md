@@ -1,4 +1,4 @@
-# stock v0.1
-更新：
-一根均线选股法：
-https://mp.weixin.qq.com/s/XpTpdMDma76pQwhNKHhVUg
+# stock v0.2
+
+优化相关架构；
+优化指标参数；
